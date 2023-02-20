@@ -19,3 +19,4 @@ Languages Used: HTML, CSS, BOOTSTRAP, JAVASCRIPT
 ******************************************************************************
 
 Payement: RazorPay
+(note: due to unavailability of my own razorpay payment form i have used the gateway of one my friends)
