@@ -1,4 +1,4 @@
-# Payment-Gateway-Integration-sparks-foundation-internship
+# Payment-Gateway-Integration
 
 ***************************************************************************
 Features:
